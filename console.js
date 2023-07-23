@@ -1,1 +1,2 @@
-console.log("hellow wold")
+console.log("hellow wold");
+console.log("come");
